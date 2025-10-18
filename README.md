@@ -1,6 +1,6 @@
 # Sui Move Lang Course
 
-## 🧭 Course Roadmap
+## Course Roadmap
 
 ### Part 1 — Beginner
 - [x] Chapter 1: Introduction to Move and Sui
