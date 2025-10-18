@@ -2,7 +2,7 @@
 
 ## Course Roadmap
 
-### Part 1 — Beginner
+### [Part 1 — Beginner](Part1(Beginner))
 - [x] [Chapter 1: Introduction to Move and Sui](Part1(Beginner)/Chapter1(Introduction).md)
 - [x] Chapter 2: Environment Setup + Hello Sui
 - [x] Chapter 3: Types, Structs, and Abilities
